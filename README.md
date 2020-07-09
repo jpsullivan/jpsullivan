@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Josh and I'm a full-stack software developer living in Chantilly, VA. I'm currently working on my own budget tracking app that I hope to launch in late 2020!
+
 <!--
 **jpsullivan/jpsullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
