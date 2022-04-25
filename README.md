@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Josh and I'm a full-stack software developer living in Purcellville, VA. I'm currently working on my own budget tracking app that I hope to launch in 2021!
+My name is Josh and I'm a full-stack software developer living in Purcellville, VA. I'm currently working on my own budget tracking app that I hope to launch in 2022!
 
 <!--
 **jpsullivan/jpsullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
